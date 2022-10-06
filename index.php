@@ -8,9 +8,9 @@
 </head>
 <body><!--condicional simples.drawio-->
 
-    <form action="ex2.php" method="get">
-    Qual é a sua idade:<br/>
-    <input type="number" name="idade"/>
+    <form action="ex13.php" method="get">
+    Qual é a quantidade de peixe:<br/>
+    <input type="number" name="peixe"/>
     <br/></br>
     <input type="submit" value="Verificar"/>
 
